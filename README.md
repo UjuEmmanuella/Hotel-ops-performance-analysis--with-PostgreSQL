@@ -197,6 +197,6 @@ HAVING AVG(rating) < 4.5;
 
 ## 📂 Files & Resources
 
-📜 SQL Script: ![luxurstay_operations&cleaning_analysis.sqlluxurstay_operations&cleaning_analysis.sql]
+📜 SQL Script: [luxurstay_operations&cleaning_analysis.sql](luxurstay_operations&cleaning_analysis.sql/sql_script.ipynb)
 
 ✍🏽 Medium Write-Up : Read article [here](https://medium.com/@UjuEmmanuella/hotel-service-performance-analysis-with-postgresql-5ad04c3dae36)
